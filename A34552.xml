@@ -1,0 +1,331 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Eucharistia, or, A grateful acknowledgement of God's goodness in preserving our most gracious King William and for the success of his arms this last summer : deliver'd in a sermon to a country-auditory on the 22d of September 1695, being the day appointed by authority for a public thanksgiving / by William Corbin.</title>
+            <author>Corbin, William.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 45 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34552</idno>
+            <idno type="STC">Wing C6278</idno>
+            <idno type="STC">ESTC R27918</idno>
+            <idno type="EEBO-CITATION">10264719</idno>
+            <idno type="OCLC">ocm 10264719</idno>
+            <idno type="VID">44769</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34552)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44769)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1380:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Eucharistia, or, A grateful acknowledgement of God's goodness in preserving our most gracious King William and for the success of his arms this last summer : deliver'd in a sermon to a country-auditory on the 22d of September 1695, being the day appointed by authority for a public thanksgiving / by William Corbin.</title>
+                  <author>Corbin, William.</author>
+               </titleStmt>
+               <extent>[5], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Leigh Rupinski</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44769:1"/>
+            <pb facs="tcp:44769:1" rendition="simple:additions"/>
+            <p>ΕΥΧΑΡΣΤΙΑ: OR, A Grateful Acknowledgment OF GOD'S GOODNESS In Preſerving our moſt Gracious King WILLIAM, And for the Succeſs of His Arms this Laſt Summer.</p>
+            <p>Deliver'd in a SERMON To a Country-Auditory On the 22<hi rend="sup">d</hi> of <hi>September</hi> 1695. Being the Day appointed by Authority for a Publick Thankſgiving.</p>
+            <p>By <hi>WILLIAM CORBIN,</hi> Preacher at the Chapel of <hi>Bromley St. Leonard</hi>'s in the County of <hi>Middleſex.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. Baldwin</hi> near the <hi>Oxford-Arms</hi> in <hi>Warwick-Lane.</hi> MDCXCV.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44769:2"/>
+            <pb facs="tcp:44769:2"/>
+            <head>To the Right Honourable Sir <hi>JOHN SOMMERS,</hi> Kt. Lord Keeper of the Great Seal of <hi>England,</hi> and one of His Majeſty's moſt Honou<g ref="char:EOLhyphen"/>rable Privy Council.</head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>REflecting upon the hearty Affection that you bear both to His Maje<g ref="char:EOLhyphen"/>ſty's Perſon and Government, and the Greatneſs of the Poſt in which you now ſtand, which renders you ſerviceable to both; I have preſumed to ſhelter this plain Diſcourſe under your Honour's Pa<g ref="char:EOLhyphen"/>tronage, and ſent it abroad into the World under the Protection of your Name.</p>
+            <p>The Deſign of it is to convince ſome, to confirm others, and to ſhew how ſin<g ref="char:EOLhyphen"/>cerely zealous I am for the Publick Good
+<pb facs="tcp:44769:3"/>both of the Church and State. I hum<g ref="char:EOLhyphen"/>bly beg your Honour's Pardon for my Preſumption in this Dedication, ſince here<g ref="char:EOLhyphen"/>by only I have the Advantage of demon<g ref="char:EOLhyphen"/>ſtrating my zealous Affections towards, and grateful Acknowledgment of your excellent Merits, and to ſhew how much I am,</p>
+            <closer>
+               <salute>MY LORD,</salute>
+               <signed>Your Lordſhip's moſt Humble, moſt Grateful, and Obedient Servant, <hi>Will. Corbin.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:44769:3"/>
+            <head>To the Worſhipful <hi>GEORGE FORD,</hi> Eſq; One of His Majeſty's Juſtices of the Peace for the County of <hi>Middleſex,</hi> AND To the reſt of the Pariſhioners of the Pariſh of <hi>Bromley St. Leonards</hi> in the ſaid COUNTY.</head>
+            <p>AS this Diſcourſe reached the Ears of moſt, or all, of you from the Pulpit, it now returns to refreſh your Memories from the Preſs; not that I queſtion your ſteady Loyalty to his Majeſty's Per<g ref="char:EOLhyphen"/>ſon, and true Affection to his Government, nor from any ambitious Temper in me to appear to Print, especially in this Carping Age; but, to gratifie the repeated De<g ref="char:EOLhyphen"/>ſires and earneſt Sollicitations of ſome of you to whom I am highly obliged. I therefore make a Preſent hereof to you; accept of it therefore in the plain Dreſs in which it was deliver'd. Your Earneſt Deſires were the Mid<g ref="char:EOLhyphen"/>wife that uſhered it into the World; and therefore how miſ-ſhapen ſoever it is, call it your own. The Deſign
+<pb facs="tcp:44769:4"/>of it is laudable, and it may ſerve, by the Bleſſing of God, (if it fall into the hands of any ſuch) to confirm the Minds of thoſe that are wavering in their Affections to the Preſent Government, to convince and ſilence the Enemies thereof, and perſwade all to a Holy and Chri<g ref="char:EOLhyphen"/>ſtian Emulation, of exceeding each other in their Loy<g ref="char:EOLhyphen"/>alty to the KING, in their true Affections to his Go<g ref="char:EOLhyphen"/>vernment, and diligent Endeavours, in their ſeveral Capacities, for the Preſervation of both, and to engage all in a Charitable and Chriſtian Deportment one toward another. And that it may have this happy Effect upon all, is the earneſt Deſire and hearty Prayer of,</p>
+            <closer>
+               <salute>Worſhipful and Beloved,</salute>
+               <signed>Your Faithful and Obliged, (tho' Unworthy) Miniſter, <hi>W. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:44769:4"/>
+            <epigraph>
+               <q>
+                  <bibl>EZRA <hi>III. 11. the former part.</hi>
+                  </bibl>
+                  <p>And they ſung together by courſe, in prai<g ref="char:EOLhyphen"/>ſing and giving thanks unto the Lord: becauſe he is good, for his mercy endureth for ever toward Iſrael.</p>
+               </q>
+            </epigraph>
+            <p>AS Troubles and Afflictions call for Repentance and Humiliation, ſo Days of Victory and Deli<g ref="char:EOLhyphen"/>verances call aloud for Rejoycing and Thankſ<g ref="char:EOLhyphen"/>giving.</p>
+            <p>For the grateful Acknowledgment of Favours receiv'd, is a mighty Obligation upon Almighty God to beſtow more and greater Favours upon a People.</p>
+            <p>God hath, bleſſed be his Name, to all other his Fa<g ref="char:EOLhyphen"/>vours and Advantages (which he hath given our KING againſt His and Our Enemies) added this one, of Deli<g ref="char:EOLhyphen"/>vering ſo ſtrong a Fortreſs (which our Enemies poſſeſſed) into his Hands.</p>
+            <p>In the Strength of which, being ſo mightily encrea<g ref="char:EOLhyphen"/>ſed both by Art and Treaſure ſince they had the Poſ<g ref="char:EOLhyphen"/>ſeſſion of it, they mightily encouraged themſelves, and thought perhaps, with the proud Sons of <hi>Anak,</hi> that no Force could ſtand before them: But, bleſſed be God, ſome of them have lived to ſee themſelves deceived, tho Multitudes have periſhed; which hath not a little advan<g ref="char:EOLhyphen"/>ced the Subject of our Praiſes this Day: and to add to the Glory and Triumph of ſo ſignal a Victory, God, in his infinite Mercy, hath made uſe hereof, to deliver ſeveral
+<pb n="2" facs="tcp:44769:5"/>Thouſands of our own Soldiers, who were treacherouſly deliver'd over to, and detain'd in the Captivity of our Enemies; and that by the Conduct of our Renowned and Illuſtrious KING <hi>WILLIAM,</hi> for whoſe Safety we praiſe God this Day, as for ſo ſignal a Victory he hath obtained againſt His and Our Enemies in this his Expe<g ref="char:EOLhyphen"/>dition.</p>
+            <p>And oh! that every one of our Hearts and Lives, as well as our Lips and Tongues, would unanimouſly and ſincerely praiſe and magnifie the Rock of our Salvation, the Lord of Hoſts, and <hi>ſing together by courſe, in praiſing and giving thanks unto the Lord, becauſe he is good, for his mercy endureth for ever toward Iſrael.</hi>
+            </p>
+            <p>The Text and the Occaſion are happily met together, and both are joyned in one Duty.</p>
+            <p>The Thankſgiving, in the Text, was made upon the Laying of the Foundation of the New Temple which was to be in the room of that which was built by <hi>Solomon</hi> and deſtroyed by the King of <hi>Babylon.</hi>
+            </p>
+            <p>And the Victory which God hath given our King, and the Safety and Protection of his Perſon, is the Subject of this Day's Thankſgiving.</p>
+            <p>And we are met together at this time, to acknowledge and adore the Infinite Wiſdom and Power of Almighty God, in contriving and bringing ſuch mighty things to paſs.</p>
+            <p>How light ſoever our Enemies may make of this Acti<g ref="char:EOLhyphen"/>on, yet I hope it will prove to be of Conſequence to cor<g ref="char:EOLhyphen"/>rect their Pride, and a juſt Retribution for their Cru<g ref="char:EOLhyphen"/>elty.</p>
+            <p>For doubtleſs, God, who hath not been an idle Spe<g ref="char:EOLhyphen"/>ctator of their Pride and Blaſphemy, of their cruel and unchriſtian Carriage, will have a time to correct them for all this.</p>
+            <p>And who can tell, but this is the Seaſon which God
+<pb n="3" facs="tcp:44769:5"/>hath appointed for the Performance of ſo great a Work, as that of Relieving almoſt all the Chriſtian World from the Tyranny and Rage, from the unjuſt Invaſions, and proud Inſults of, not long ſince, a growing Tyrant; I mean, <hi>Lewis</hi> XIV. who I hope will, in a little more time, be a dejected and ſneaking Nothing, in reſpect of our Heroick and Illuſtrious KING: and, through the good Providence of God, the Affairs of the World at this time ſeem to be diſpoſed for ſuch a Performance, by the wiſe Conduct, diligent Care, and undaunted Cou<g ref="char:EOLhyphen"/>rage, of our Renowned King <hi>WILLIAM,</hi> whom God long, long preſerve, to be a Terrour to <hi>France,</hi> and for the Honour, Safety, and Welfare, of all the Reformed Churches in the World.</p>
+            <p>God hath had a peculiar Care of his Church in all Ages, and he hath never wanted Inſtruments to reſcue and deli<g ref="char:EOLhyphen"/>ver her, when in his infinite Wiſdom he hath thought it moſt convenient: We have many Inſtances to this pur<g ref="char:EOLhyphen"/>poſe in the Holy Scriptures, beſides thoſe in Humane Story.</p>
+            <p>God, we read in Holy Writ, preſerved the Church of the <hi>Jews,</hi> by the Conduct of <hi>Joſeph</hi> and <hi>Moſes,</hi> of <hi>Joſhua,</hi> of <hi>David,</hi> of <hi>Esther,</hi> and many others; and ſince that time, his Church hath been ever dear to him in all Ages; he hath ſtill appeared for her in her Diſtreſſes and Affli<g ref="char:EOLhyphen"/>ctions, and by ſome means or other (as his infinite Wiſ<g ref="char:EOLhyphen"/>dom hath thought moſt convenient) hath wrought out her Deliverance, ſometimes by ordinary, and ſometimes by extraordinary means, and preſerved her in the midſt of imminent Dangers: and this hath been proved true more than once within the Experience of two or three Generations paſt.</p>
+            <p>God did heretofore make uſe of <hi>Conſtantine,</hi> juſtly ſti<g ref="char:EOLhyphen"/>led <hi>Great,</hi> for the Patronage, Defence, and Support of his Church, in whoſe Relation this Nation may juſtly glo<g ref="char:EOLhyphen"/>ry:
+<pb n="4" facs="tcp:44769:6"/>And in this Generation, God hath not been wanting to give us extraordinary and ſignal Inſtances of that Care which he hath ſtill for his Church amongſt us, in raiſing up our Valiant and Renowned King <hi>WILLIAM,</hi> to be a Patron too, and the Deliverer and Defender thereof; that when we were even brought to the very brink of Ruin, and in the eyes of Humane Probability, we had ſcarce any way left to eſcape, then God ſent us a Deliverer, in an extraordinary manner, and gave him extraordinary Succeſs, beyond the Expectations either of his Friends or Enemies; and hath from time to time pre<g ref="char:EOLhyphen"/>ſerved and ſecured his Perſon from many ſecret Machina<g ref="char:EOLhyphen"/>tions, and open Violences of his Enemies, and given Suc<g ref="char:EOLhyphen"/>ceſs to his Arms; yea, in this preſent Expedition, hath given evident Demonſtrations of his Care of him, and hath given him ſuch Succeſs which I hope is but a Fore<g ref="char:EOLhyphen"/>taſte or Specimen of what Succeſs he deſigns him, if our Sins do not prevent it.</p>
+            <p>Let us therefore <hi>ſing together in courſe,</hi> according to the Example of the Text, and with all the Intentions and Powers of our Souls <hi>praiſe and give thanks unto the Lord, for he is good, and his mercy endureth for ever towards Iſrael.</hi>
+            </p>
+            <p>In diſcourſing of theſe Words, I ſhall obſerve,</p>
+            <p n="1">I. The Duty of Praiſe and Thankſgiving; and then take notice of the Object thereof.</p>
+            <p n="2">II. I ſhall ſpeak ſomething briefly to the Subject of this Praiſe; which may ſerve as an Argument to prove the Reaſonableneſs of the Duty.</p>
+            <p n="3">III. Shew you the manner how it ought to be perform<g ref="char:EOLhyphen"/>ed, with the Qualifications with which it muſt be accom<g ref="char:EOLhyphen"/>panied to render it acceptable to God, and profitable to our Selves; and ſo conclude with ſome brief Reflexions upon our Duty.</p>
+            <pb n="5" facs="tcp:44769:6"/>
+            <p>I begin with the Firſt; <hi>(viz.)</hi> The Duty of Praiſe and Thankſgiving. And this is always incumbent upon the receiving of Bleſſings; and therefore the Holy Prophet calls upon Men oftentimes in one Pſalm, to <hi>praiſe the Lord for his Goodneſs,</hi>
+               <note place="margin">Pſal. 107.1, 8, 15, 21, 31.</note> 
+               <hi>and declare the Wonders that he doth for the Children of Men;</hi> yea, he calls upon the Heavens and the Earth, and the Stars, yea the Angels in Heaven, to praiſe the Lord,
+<note place="margin">Pſal. 71.6.</note> 
+               <hi>and he himſelf will praiſe him conti<g ref="char:EOLhyphen"/>nually.</hi>
+            </p>
+            <p>And this is ſometimes expreſſed by ſhewing forth, <hi>Pſal.</hi> 9.1. ſometimes by declaring his Doings, <hi>Pſal.</hi> 96.30. and to exalt his Praiſe, <hi>Iſa.</hi> 38.18. and many more.</p>
+            <p>And therefore I obſerve in the</p>
+            <p>Second place, That this Praiſe muſt have a determinate Object; and that we muſt acknowledge to be twofold, principally God, and ſecondarily our Benefactors, as the Inſtruments of God.</p>
+            <p>Firſt, The principal Object of our Praiſe and Thanks is God;
+<note place="margin">Jam. 1.17.</note> for 'tis from him that <hi>every good and perfect Gift cometh,</hi> ſaith the Apoſtle, and <hi>in him that we live, move, and have our being.</hi> He is eminently the Object of our Praiſe, as well for thoſe excellent and divine Perfections that are in him, as for thoſe abundant Bleſſings and Fa<g ref="char:EOLhyphen"/>vours which he beſtoweth upon us, which deſervedly require our Praiſe and Adoration; and therefore our Praiſe is ſometimes taken for the whole Worſhip of God, as St. <hi>Paul</hi> intimates,
+<note place="margin">Rom. 1.21. Pſal. 92.5.</note> but more eſpecially for that Joy and Gladneſs which we conceive of his Goodneſs.</p>
+            <p>For beſides thoſe Excellencies that dwell in him, we have innumerable Benefits to praiſe and thank God for, which I need not now ſtand to enumerate, foraſmuch as the repeated Affluence of them may be ſufficient to lead an ingenious Temper to the Acknowledgment of that Bounty which beſtoweth ſuch good things upon us. We have our Beings, and all thoſe neceſſary Supports which
+<pb n="6" facs="tcp:44769:7"/>are required to ſuſtain and refreſh us, from God; he openeth his hand,
+<note place="margin">Pſal. 145.16.</note> and filleth all things living with plen<g ref="char:EOLhyphen"/>teouſneſs; our Wool, and our Flax, our Corn, our Wine, and Oyl, comes all from the Bounty of God, and are of excellent uſe to ſupport and ſuſtain our humane Nature.</p>
+            <p>And the Ordinances of God, the Word preached, and the Sacraments duely adminiſtred, are of excellent uſe, to beget in us, and preſerve us to, a ſpiritual and eternal Life; for which, the pious Examples and the renowned Actions of thoſe that have gone before us in the Faith of Jeſus Chriſt, are no ſmall Advantage, and may ſerve to excite our Diligence to write after their Copy, that at laſt we may be Partakers of the ſame Glory with them in the Kingdom of Heaven: All which comes from God, and we ought to praiſe and thank God for them all.</p>
+            <p>But that which we come hither this Day to praiſe and thank God for more peculiarly, is ſuch a Bleſſing, as we know not well how to expreſs it: it is the Preſervation of his Majeſty's Perſon in the midſt of ſo eminent and great Dangers; by whom, as God's Inſtrument, we enjoy all the forementioned Bleſſings.</p>
+            <p>And we praiſe and thank God this Day for the Succeſs of his Arms againſt ſuch an important, and almoſt im<g ref="char:EOLhyphen"/>pregnable Fortification, which he hath valiantly wreſted out of the poſſeſſion of our Enemies, almoſt in the ſight of their whole Army.</p>
+            <p>And that by his Conduct, God hath delivered ſo many Thouſands of our own Soldiers out of the Captivity of our Enemies, who were treacherouſly delivered unto them.</p>
+            <p>We acknowledge the Providence of God principally in the performance of all this; and therefore we princi<g ref="char:EOLhyphen"/>pally praiſe and thank God for them, as alſo for thoſe former Bleſſings which we have received, which we know not well how to expreſs the Greatneſs of.</p>
+            <pb n="7" facs="tcp:44769:7"/>
+            <p>It is for the Conſervation of our pure Religion, which (beyond any thing that the Enemies thereof could ever yet make appear) is the moſt pure Religion (both in its Conſtitution and Diſcipline, in its Precepts and Do<g ref="char:EOLhyphen"/>ctrine) that is this day in the World.</p>
+            <p>We praiſe and thank God alſo for the free and publick Exerciſe of his Worſhip, without any Idolatrous Injuncti<g ref="char:EOLhyphen"/>ons, or the giddy Inventions of Mercenary Prieſts.</p>
+            <p>And farther, for the Conſervation of our Civil Rights and Properties we bleſs and thank God this Day; all which, through his Goodneſs, are now ſecured to us, contrary to, and beyond the Expectations of our Enemies, yea, beyond our own Hopes, not many Years ago; which cannot yet be forgotten by any thinking Perſon; and that God hath, in his infinite Wiſdom and Goodneſs, raiſed up ſuch an Inſtrument for our Preſervation and Defence, and the Conſervation of all theſe ſingular and great Privileges: So that all our Fears and Jealouſies in our Selves, and all the cruel Deſigns and Machinations of our Enemies, have hitherto come to nothing; and I hope will come to nothing in reſpect of our Diſadvantage for ever. All which, we obtain and enjoy by the wiſe Con<g ref="char:EOLhyphen"/>duct and valiant Deportment of our Illuſtrious and Gra<g ref="char:EOLhyphen"/>cious King <hi>WILLIAM,</hi> for whom we praiſe and thank the God of Heaven, who hath raiſed up ſuch a noble In<g ref="char:EOLhyphen"/>ſtrument upon Earth thus to defend and ſecure us, and preſerve all theſe Advantages to us, and who hath alrea<g ref="char:EOLhyphen"/>dy, in a great meaſure, been inſtrumental to correct the Pride, and bring down the high Conceits of all our Ene<g ref="char:EOLhyphen"/>mies, that dare own themſelves publickly to be ſo, who would long ere this time have debauch'd our Religion with an Idolatrous Superſtition, ſequeſtred our Civil Pro<g ref="char:EOLhyphen"/>perties, and made our Lives a Prey to their Ambition and Cruelty, if God had not prevented them: And that this was their Deſign, was conſpicuous to all the World,
+<pb n="8" facs="tcp:44769:8"/>if their Power could have prevailed; for we of theſe Kingdoms could not expect to fare better under the Pow<g ref="char:EOLhyphen"/>er of <hi>France</hi> than their own Native Subjects, which is no<g ref="char:EOLhyphen"/>toriouſly known to all the World.</p>
+            <p>We therefore praiſe and thank God, who is the Rock of our Salvation, who hath raiſed up for us ſo noble and glorious an Inſtrument, and by him hath hitherto pre<g ref="char:EOLhyphen"/>vented their Deſigns, and preſerved him to this Day, againſt all their Contrivance (treacherouſly and ſecretly) to aſſaſſinate his Royal Perſon more than once, ſince they could not prevail againſt him by their open Attempts: But God hath hitherto prevented their Deſigns againſt him, and, we hope, will bring him back in Safety now alſo, to ſit upon his Throne, and long, long, govern theſe Kingdoms, notwithſtanding whatſoever Malice, whatſoever Treaſon, whatſoever the Cruelty of <hi>France</hi> and Hell can contrive, and that in ſpight of all his Ene<g ref="char:EOLhyphen"/>mies, he may long be a publick Bleſſing to theſe King<g ref="char:EOLhyphen"/>doms, and all the Reformed Churches in the World may rejoyce in him, and thank and praiſe God, together with us, for raiſing up ſo noble an Inſtrument for their and our Safety and Deliverance; who is in the ſecond Place, being ſo noble a Benefactor, a fit Object of our Thanks and Praiſe, who hath ſo often hazarded his Life, and as it were, lightly eſteemed the Glory, Eaſe, and Pleaſure, with which an Imperial Crown is generally attended; and all for the Safety of our Lives, to preſerve our Pro<g ref="char:EOLhyphen"/>perties, and to ſecure us againſt all the unjuſt Invaſions and proud Inſultations of our avowed Enemies, for which he well deſerves our Thanks and Praiſe: And yet there are ſome malevolent and wicked Spirits ſtill among us (the more's the pity) who are ſo ungrateful, that they will not only not own, but deſpiſe and undervalue him for all this: But I hope the Number of ſuch ungrateful People is but ſmall, and that they will now ſee their In<g ref="char:EOLhyphen"/>tereſt,
+<pb n="9" facs="tcp:44769:8"/>and be aſhamed of their Folly, and joyn together with us in thanking and praiſing our moſt Gracious and DREAD SOVERAIGN for what he hath done for us, and for what we enjoy by his means, and return him our hearty Affections, and deport our ſelves toward him and his Government with all Loyalty and Obedience eve<g ref="char:EOLhyphen"/>ry day, and together put up our moſt devout Prayers to the God of Heaven this Day, that his farther Succeſs (in all his Enterprizes) may be proportionable to the Good<g ref="char:EOLhyphen"/>neſs of his Cauſe; and then we may confidently expect, that our Enemies may be rooted out from among us, and not able to appear abroad againſt us, and our ſelves, and all that is dear to us, be ſecured againſt all the Attempts of <hi>France</hi> and <hi>Hell.</hi>
+            </p>
+            <p>A Foretaſte of which, we celebrate in our Praiſes and Thankſgiving this Day (for the ſingular Preſervation of our KING, and the noble Victory obtained by him in this his Expedition,) which is but an Earneſt of what God farther deſigns us by his Conduct, if we are not wanting to our ſelves.</p>
+            <p>And this we may conclude, not from any Goodneſs or Excellency that is in us, for God knoweth we are a diſ<g ref="char:EOLhyphen"/>obedient and wicked People, but for the Wickedneſs of our Enemies, and thoſe manifold Blaſphemies with which they have blaſphemed God, and for thoſe many Affronts which they have put upon his Majeſty, who is a jealous God, and will not let ſuch impudent and daring Offen<g ref="char:EOLhyphen"/>ders go unpuniſhed; and therefore we may expect that God will appear, and vindicate his Honour againſt ſo bold and daring Enemies: this he hath begun to do already, for which we come hither to thank and praiſe him this Day.</p>
+            <p>And I would to God, that the Hearts of all the Inha<g ref="char:EOLhyphen"/>bitants of this Kingdom really meant what they expreſs with their Tongues, or ought to expreſs upon this Occa<g ref="char:EOLhyphen"/>ſion,
+<pb n="10" facs="tcp:44769:9"/>that we may not <hi>offer to God the Sacrifice of Fools.</hi>
+            </p>
+            <p>And that we may all of us ſhew forth the Praiſes of God throughout the whole courſe of our Converſations, by our religious and pious Lives, as we do this Day by the Sound of our Lips; for this God expecteth from us, and gives us great Encouragement ſo to do;
+<note place="margin">1 Sam. 12.14.</note> 
+               <hi>For if ye will fear the Lord,</hi> ſaith the Prophet, <hi>and ſerve him, and not rebel againſt the Commandment of the Lord, then ye ſhall con<g ref="char:EOLhyphen"/>tinue, and alſo the King that reigneth over you.</hi>
+            </p>
+            <p>Thus then I have briefly hinted to you the Duty, <hi>viz.</hi> Thanks and Praiſe, with the Object thereof, which is principally God, and ſecondarily our Benefactors: I have alſo given you ſome brief Hints concerning the Subject of our Thanks and Praiſes, <hi>viz.</hi> all the Good we enjoy, and particularly this Day, for the Preſervation of our Graci<g ref="char:EOLhyphen"/>ous and Dread Soveraign in ſo many and great Dangers, to which he hath been ſo often expoſed in this his Expedi<g ref="char:EOLhyphen"/>tion, and for the Succeſs of his Arms both by Land and Sea.</p>
+            <p>For which (if we knew how to frame it) <hi>let us ſing unto the Lord a new Song</hi> (according to the Prophet's In<g ref="char:EOLhyphen"/>junction) <hi>becauſe he hath done marvellous things:</hi>
+               <note place="margin">Pſal. 98.1.</note> and let us, according to the Preſident in the Text, <hi>ſing together in courſe,</hi> that is, now we are called together by Publick Authority for this Exerciſe, and <hi>praiſe and thank God, be<g ref="char:EOLhyphen"/>cauſe he is good, and his mercy endureth for ever towards</hi> our <hi>Iſrael.</hi>
+            </p>
+            <p>For repeated Favours, and new Victories, call for re<g ref="char:EOLhyphen"/>peated Praiſes and Thankſgiving, and will put ingenious and grateful Spirits upon inventing new Songs to praiſe God withal: let us therefore praiſe him for his excellent Greatneſs, and praiſe him for his excellent Works; and let the high Praiſes of God be in our mouths all this Day eſpecially.</p>
+            <pb n="11" facs="tcp:44769:9"/>
+            <p>But alas! what will our Praiſes ſignifie to him! we on<g ref="char:EOLhyphen"/>ly hereby demonſtrate, that we are not ſtupidly inſenſi<g ref="char:EOLhyphen"/>ble of the great and wonderful Bleſſings and Favours of God; and this is our Duty not only at this time, and up<g ref="char:EOLhyphen"/>on this Day, but throughout the whole Courſe of our Converſations; and as every day affords us new Benefits, ſo every day ſhould engage us in new Praiſes, which if we faithfully perform, will engage God to beſtow more and greater Bleſſings upon us, as I intimated before.</p>
+            <p>The Wiſdom of God is able to find out all the Contri<g ref="char:EOLhyphen"/>vances of Men; and ſuch is his Power, that he will diſſi<g ref="char:EOLhyphen"/>pate and expel all thoſe that are levelled againſt his Church, and turn the Wiſdom of all <hi>Achitophels</hi> into Fooliſhneſs: And this he hath done often to our own Ex<g ref="char:EOLhyphen"/>perience.</p>
+            <p>Yea, he will give a Symbol of his Preſence with all ſuch as faithfully and devoutly thank and praiſe him; for when the <hi>Iſraelites</hi> lifted up their Voice, with Trumpets and Cymbals, to make one Sound to be heard, in prai<g ref="char:EOLhyphen"/>ſing and thanking the Lord, becauſe he is good, and his Mercy endureth for ever,
+<note place="margin">2 Chron 5.13.</note> 
+               <hi>then the houſe was filled with the cloud, even the houſe of the Lord.</hi>
+            </p>
+            <p>And our Praiſes and Thankſgiving for Mercy received, is the ready way to obtain more and greater, if perfor<g ref="char:EOLhyphen"/>med with a hearty Sincerity, and without Hypocriſie; for the ſame Wiſdom, the ſame Power, the ſame Good<g ref="char:EOLhyphen"/>neſs, and the ſame Providence, is engaged and concern<g ref="char:EOLhyphen"/>ed for our Good which hath hitherto been, if our In<g ref="char:EOLhyphen"/>gratitude prevent it not.</p>
+            <p>General Mercies require general Praiſes and Thanks, and ſuch are the Mercies which we commemorate this Day; and the Effect of ſuch our Praiſes, if hearty and ſincere, will appear to our particular Advantage; for if we are thankful for a little, we thereby entitle our ſelves to much; though the Mercies which we commemorate
+<pb n="12" facs="tcp:44769:10"/>this Day, cannot be ſaid to be little; which if we make that Improvement of as God requires, we ſhall intereſt our ſelves in more and greater than thoſe.</p>
+            <p>For God's Treaſury is never exhauſted; he hath Vi<g ref="char:EOLhyphen"/>ctories ſtill in ſtore, and Deliverances ſtill ready, for a thankful and grateful People: whereas Ingratitude will cauſe him to hold his hand, and render an Ungrateful People, as unworthy of Mercies in themſelves, ſo deſpi<g ref="char:EOLhyphen"/>ſed and rejected by others, an Inſtance of which we have in the <hi>Jews,</hi> who for their Ingratitude are a People re<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted by all the World to this day.</p>
+            <p>The City of <hi>Athens</hi> was upbraided with monſtrous In<g ref="char:EOLhyphen"/>gratitude, and that juſtly too, for that ſhe ſuffered thoſe Worthies to die in Ignominy and Oblivion,
+<note place="margin">
+                  <hi>Miltiades, Ariſtides, Solon,</hi> and others.</note> who by their vertuous Endeavours had raiſed her up upon the Pillars of Fame, and brought a great deal of Glory and Ho<g ref="char:EOLhyphen"/>nour to that City; but the City covered them with the inglorious Duſt of Obſcurity: and this is remembred to the great Diſhonour of once a flouriſhing and famous City, and will never be forgotten to the End of the World.</p>
+            <p>Ingratitude, ſaith the Prophet, is as the Sin of Witch<g ref="char:EOLhyphen"/>craft; it's a Sore, and a Plague.</p>
+            <p>If we therefore ſhould paſs by ſuch ſignal Bleſſings (as this Summer's Expedition hath afforded us) without Praiſes to God, and bleſſing the King, we may well be cenſured for our intolerable Ingratitude, and may juſtly provoke God to blaſt our, farther Deſigns, and render us, as the City of <hi>Athens,</hi> (which was once famous) now deſpiſed, and that not only by Almighty God, but all the Nations round about us, and eſteemed unworthy of any more Bleſſings.</p>
+            <p>I believe there are ſcarce any but what pretend to give Thanks this Day, or are ſo daringly bold to op<g ref="char:EOLhyphen"/>poſe Authority herein, and run Counter, publickly, to
+<pb n="13" facs="tcp:44769:10"/>the general Opinion and Practice of the Body of the Nation.</p>
+            <p>Yet it is to be ſeared, and it may be aſſerted too, with<g ref="char:EOLhyphen"/>out a breach of Chriſtian Charity, that there are but too many ſuch among us, who, as the Prophet ſaith, <hi>Draw near to God with their Lips, while their Hearts are far from him;</hi> who ſeemingly praiſe God for the Safety of our KING, and the Victory which he hath obtained over his Enemies, with the reſt of his Loyal Subjects, yet in their Hearts, it may be, curſe the KING, or at leaſt ſecretly laugh at thoſe who are more zealous and devout in Praiſing and Thanking God for his Safety (than them<g ref="char:EOLhyphen"/>ſelves.) 'Tis plain enough, beyond Contradiction, that there have been many ſuch in this Generation; and I ſhould mightily rejoyce if there were none ſuch in this day.</p>
+            <p>The <hi>Grecians</hi> had a Proverb among them which cer<g ref="char:EOLhyphen"/>tainly concluded againſt themſelves, and I fear may be applicable to ſome in this Generation, though I hope to none that are here preſent, Agamemnon, <hi>for the Ho<g ref="char:EOLhyphen"/>nour of</hi> Greece, <hi>had done great Service to the Conqueſt, and Subverſion of</hi> Troy, <hi>and when he came home, was ſuf<g ref="char:EOLhyphen"/>fer'd to be ſlain by his own Wife:</hi> the Application is plain and eaſie.</p>
+            <p>Our Gracious and Dread SOVERAIGN hath expoſed himſelf much beyond the common Methods of Crowned Heads, in the Service and for the Advantage of theſe Kingdoms: He hath baniſhed our Fears, and reſcued us out of Danger; he hath ſecured our Religion and Pro<g ref="char:EOLhyphen"/>perty to us, if the Fault be not our own; if, like the <hi>Iſ<g ref="char:EOLhyphen"/>raelites</hi> which were delivered out of the Bondage of <hi>Egypt,</hi> we are not uneaſie till we be bound again.</p>
+            <p>I may be bold to ſay, ſome ſuch there are (I grieve to ſpeak it, and yet it is but too true) who endeavour to blaſt the Fame, and leſſen the Merit of our Glorious
+<pb n="14" facs="tcp:44769:11"/>and Renowned PRINCE and SOVERAIGN, and hereby vertually endeavour to overthrow his Go<g ref="char:EOLhyphen"/>vernment, at leaſt in the Hearts and Affections of his People; and this may be naturally concluded from their unbecoming Deportments towards him and his Government.</p>
+            <p>For this we may conclude as a general Maxim, That whoſoever ſhall refuſe to ſwear Fealty and Allegiance to the KING, from any Pretence whatſoever, will not be deficient in his Endeavours to extirpate his Government, eſpecially in the Affections of his People, and dethrone his Perſon too, whenſoever it ſhall be in the power of their hand to do it; which God of his infinite Mercy prevent.</p>
+            <p>Such Perſons may juſtly be ſtigmatized with a Mark of horrible Ingratitude, both to God and the KING; and we may conclude, that they ſhall be ſeverely ac<g ref="char:EOLhyphen"/>countable (to God) one day for all this, whatſoever their preſent Apprehenſions and Pretences be. But I hope the Numbers of ſuch ungrateful Perſons are now ſo ſmall, that they will not be ſufficient to obſtruct our Happineſs, or engage God to put a Stop to that Succeſs which he deſigneth our KING, of which that of this Summers Expedition is a Specimen or Foretaſte; for which let us praiſe and thank God, as our Duty requires us, and ſing the Praiſes of God aloud, that all the World may hear it: I mean, live a holy and religious Converſa<g ref="char:EOLhyphen"/>tion, <hi>that others ſeeing our good Works, may glorifie our Father which is in Heaven.</hi> This will engage God to prolong the Life of Our Gracious and Valiant KING; to proſper his Deſigns, and to fight his Battels; to con<g ref="char:EOLhyphen"/>quer his Enemies, and to arm his Officers and Soldiers, as with Courage, ſo with Faithfulneſs, and with Wiſ<g ref="char:EOLhyphen"/>dom, which are no ſmall Advantages: and ſuch we may expect, upon our grateful Acknowledgment, and ſincere
+<pb n="15" facs="tcp:44769:11"/>and hearty Thanks to God for the Bleſſings and Favours already received.</p>
+            <p>Thus then is the Duty, with the Object, and the Sub<g ref="char:EOLhyphen"/>ject thereof; which may be a forcible Argument to prove the Reaſonableneſs thereof. The manner of per<g ref="char:EOLhyphen"/>forming it, I have already briefly hinted at, it muſt be <hi>in courſe,</hi> as it is in the Text, that is, in the time ap<g ref="char:EOLhyphen"/>pointed for the Exerciſe thereof, <hi>viz.</hi> this Day, ſet a<g ref="char:EOLhyphen"/>part by publick Authority for this Purpoſe; not that hereby other Times and Seaſons are excluded for the Praiſing and Thanking God for his Benefits and Favours, which are continued and renewed to us every day, (for which we ought to repeat our Thanks and Praiſe every day) but not neglect to give general and publick Thanks and Praiſe to God this day for ſo general and publick Bleſſing; and let this be done in a due Propor<g ref="char:EOLhyphen"/>tion according to the Greatneſs of the Mercy we enjoy, with Uprightneſs and Sincerity of Heart, with a humble Mind, and engaged Affection, which are the Qualificati<g ref="char:EOLhyphen"/>ons, as I briefly hinted before, with which our Duty muſt be accompanied; and being thus qualified, will be accepted, and undoubtedly advance our Proſperity, to the Ruin and Overthrow of our Enemies.</p>
+            <p>This will obtain us greater Victories againſt them, ſecure our preſent Advantages, and prevent our future Danger; and this, we may expect, will be the happy and bleſſed Effects of our hearty Thanks and Praiſe.</p>
+            <p>For the Application of all then.</p>
+            <p>What remains, but that we be all engaged in the faith<g ref="char:EOLhyphen"/>ful and zealous Performance of this Duty, as the Nature of the thing requires.</p>
+            <p>And conſider, 'tis from God we enjoy all our preſent Mercies, and in him are, or ought to be, all our future Hopes and Expectations: he made us when we were not, and reſtored us when we were loſt: 'tis he that ſupplieth
+<pb n="16" facs="tcp:44769:12"/>our Wants, forgives out Sins, and crowns our Deſigns; and the richer thoſe Benefits are, the more hearty Thanks they require; great Deliverances, and ſignal Vi<g ref="char:EOLhyphen"/>ctories, ſuch as we commemorate this Day, call for a due Proportion in our Thanks and Praiſe; for where much is given, much is alſo required.</p>
+            <p>All that we have is given us of God, and all that we enjoy is from him, and is not the Production of blind Chance or Fatality.</p>
+            <p>The Philoſopher might ſee the Stars in the Water, though he could not ſee the Water in the Stars; 'tis not the Stars, but God that governs the World, for all things are diſpoſed of according to his Directions.</p>
+            <p>What the Aſtronomer imagined to find in the Heavens, I am ſure may be found here below: <hi>Cancer</hi> is not there but here, <hi>viz.</hi> many Apoſtates, retrograde to Goodneſs, Piety, and Religion; here is <hi>Scorpio</hi> the Slanderer and Blaſphemer; here, and not there, are thoſe Depreſſors, and covetous Defrauders, and Serpents which hurt and deſtroy one another; here below, and not in Heaven, are thoſe Bulls and Goats, Perſecutors, and unclean Per<g ref="char:EOLhyphen"/>ſons, Lions rampant, and Rams aſſailant, that puſh and devour one another, the more's the pity.</p>
+            <p>'Tis ſtrange to behold, and yet too true to be denied, that Men endued with rational Souls, and capable of im<g ref="char:EOLhyphen"/>mortal Glory, ſhould act ſo irrationally.</p>
+            <p>Is this the Gratitude we owe to God? If ſo, ſure this excellent Quality hath loſt its proper Virtue. Is this to praiſe, and give Thanks to God, for ſuch ſignal Tokens of his Love and Favour? <hi>viz.</hi> to run Counter to his holy Laws? if ſo, we may expect no other Effect thereof than the Apoſtle indicates, that if we bite and devour one ano<g ref="char:EOLhyphen"/>ther, we may be deſtroyed one of another, and the Com<g ref="char:EOLhyphen"/>mon Enemy may ſwallow us all.</p>
+            <pb n="17" facs="tcp:44769:12"/>
+            <p>It was the Diviſions and Diſcords of <hi>Jeruſalem,</hi> to<g ref="char:EOLhyphen"/>gether with their Ingratitude, that wrought their Ruin; and it may do ours unleſs we ſpeedily amend.</p>
+            <p>The Murmuring of the <hi>Iſraelites</hi> in the Wilderneſs was the Cauſe why many of them were deſtroyed, and never entered into the Land of Promiſe: Let us then, by the Foreſight of their Ruin, prevent our own.</p>
+            <p>Our Fears are now evaporated, and our Danger at preſent ſeems to be over, and yet we will not (I mean, ſome troubleſome Spirits which breath among us) be content; but let us take heed, <hi>and ſin no more,</hi>
+               <note place="margin">Joh. 5.14.</note> according to our Lord's Inſtructions, <hi>leſt worſe things come upon us</hi> than whatever yet we have felt, or fear.</p>
+            <p>We ſeem, generally, to be well enough ſatisfied with what God has done for us; but many among us are ſtill diſſatisfied with the Methods and Inſtruments, in, and by which, God hath brought about ſo mighty a Deliverance; as if it were convenient for, and pecu<g ref="char:EOLhyphen"/>liar to them, to preſcribe Rules to Infinite Wiſdom.</p>
+            <p>They would have the Bleſſings of God, but they would have them deſcend upon them in their own Clouds, or elſe they ſhall not be eſteemed worth their Notice, but rather deſerve their Oppoſition.</p>
+            <p>And this ſeems to be the plain Language of ſome diſ<g ref="char:EOLhyphen"/>affected People in this preſent Generation.</p>
+            <p>Oh, horrid Ingratitude! altogether unbecoming the Practice of Reaſonable Men, or Chriſtians.</p>
+            <p>I would ask a Queſtion, if I knew where to have it reſolved, <hi>viz.</hi> What ſuch Men as theſe would have? To which, I doubt, themſelves cannot anſwer.</p>
+            <p>It muſt certainly be concluded, that they are in love with Chains, that ſeeing they are looſed from them, they endeavour, what in them lieth, to bind them on
+<pb n="18" facs="tcp:44769:13"/>afreſh: This, certainly, is neither conſonant with Rea<g ref="char:EOLhyphen"/>ſon nor Religion, though ſuch Men, perhaps, will pre<g ref="char:EOLhyphen"/>tend to both, for both detect ſuch Abſurdities.</p>
+            <p>'Tis unbecoming the Reaſon of a Man, to deſtroy his own body; and I am ſure it's unbecoming the Pra<g ref="char:EOLhyphen"/>ctice of a Chriſtian, to contribute towards and rejoyce in the Ruin of his Country, and of that Church of which he is a Member, (at leaſt by Profeſſion;) as un<g ref="char:EOLhyphen"/>doubtedly all ſuch diſaffected Perſons virtually do, though it be not in their Power actually to per<g ref="char:EOLhyphen"/>form it.</p>
+            <p>But ſuch Perſons, whoever they are, muſt expect one day to be ſeverely accountable for all this; and therefore I would faithfully warn them all of it this day, if my Voice would extend ſo far.</p>
+            <p>For it's no ſmall matter, to endeavour to thwart the Deſigns and Methods of the Almighty God.</p>
+            <p>For if Men will walk contrary to him, he will alſo walk contrary to them, and by ſome means or other, and at ſome time or other, will make them feel the weight of their Folly, in the Puniſhment of their Ini<g ref="char:EOLhyphen"/>quities.</p>
+            <p>And if his Mercies cannot prevail with them to be grateful, his Judgments will make them know what it is to affront his Majeſty.</p>
+            <p>Let ſuch therefore be wiſe in time, and expreſs the Gratitude of their Souls for ſuch great Bleſſing, in a due Proportion of Thanks and Praiſe, as is ſuitable for ſuch an Occaſion, and that with a hearty Sincerity.</p>
+            <p>And let us all, after the Example of the Holy Pro<g ref="char:EOLhyphen"/>phet, call upon, and ſtir up one the other, to <hi>praiſe the Lord, and declare the wonders that he doth for the Children of Men,</hi> and eſpecially for ſuch wonderful Bleſſings as we commemorate this Day, <hi>viz.</hi> The Preſervation of
+<pb n="19" facs="tcp:44769:13"/>our Gracious and Illuſtrious KING, and for the Advan<g ref="char:EOLhyphen"/>tages which God hath given him againſt His and Our Enemies in this Summer's Expedition.</p>
+            <p>And well may the Safety of ſuch a PRINCE deſerve and require a Day of Congratulation and Thankſgi<g ref="char:EOLhyphen"/>ving.</p>
+            <p>I need not now give you a Narrative of his Miracu<g ref="char:EOLhyphen"/>lous Preſervation, foraſmuch as it hath been ſo often re<g ref="char:EOLhyphen"/>peated in your ears.</p>
+            <p>Such were the Guards of his Perſon, that hitherto (bleſſed be His and our God) his Enemies Attempts againſt him have been unſucceſsful.</p>
+            <p>And beſides the ſubſidiary Guards of Men, he had an inward Guard (I doubt not,) <hi>viz.</hi> the Integrity of his Mind and Conſcience; which, though it do not always ſecure a Man againſt the Rage and Violence of Men, yet it arms a Man with Courage and Reſolution, to ſtand againſt and ſuſtain all.</p>
+            <p>Beſides which, he had a ſpiritual Guard too, <hi>viz.</hi> the devout Prayers of his Faithful and Loyal Subjects, which always attended his Preſervation.</p>
+            <p>Yea, he had alſo a higher and more noble Guard, which ſtill attended his Safety, <hi>viz.</hi> the Protection of the Watchful and Powerful Angels, thoſe miniſtring Spirits, and the watchful Providence of his great Maker and Creator; thoſe divine Guards, which have fenced him in on every ſide as with a Wall of Fire, which at once preſerved his Perſon, and deſtroyed many of his Enemies.</p>
+            <p>But my purpoſe is not at this time to bring you back to the View of his Perils, but to ſtir up your Hearts to a thankful Acknowledgment of, and hearty Thanks and Praiſe to God for, his wonderful Preſervation and Suc<g ref="char:EOLhyphen"/>ceſs, who is juſtly ſtiled <hi>The Defender of the Faith.</hi>
+            </p>
+            <pb n="20" facs="tcp:44769:14"/>
+            <p>He hath, as the Inſtrument of God, been hitherto the Preſerver of his Temple among us (ever ſince the great Diſpoſer of all things hath committed the Charge thereof to his Care) from Idols and Superſtition: and God hath hitherto (bleſſed be his Majeſty for ever) preſerved him from all his Enemies; and we may con<g ref="char:EOLhyphen"/>clude, that that Providence that hath hitherto preſer<g ref="char:EOLhyphen"/>ved him in ſuch an extraordinary manner, hath deſign<g ref="char:EOLhyphen"/>ed him for ſome farther Service to the Chriſtian World, (which is more than ordinary.)</p>
+            <p>For becauſe he loved <hi>Iſrael</hi> for ever, ſaith the Spirit of God by the Prophet,
+<note place="margin">1. Kings 10.9.</note> therefore made he him KING, to do Judgment and Juſtice.</p>
+            <p>It was God that ſate a Crown upon his Head, and hath hitherto, by a Miracle, preſerved it and him to<g ref="char:EOLhyphen"/>gether, contrary to the Deſigns, and in ſpight of all the raging Malice of <hi>France</hi> and Hell: <hi>For by me,</hi> ſaith the Spirit of God by the Wiſe-man,
+<note place="margin">Prov. 8.15.</note> 
+               <hi>Kings reign, and Princes decree Juſtice.</hi>
+            </p>
+            <p>God hath hitherto delivered him from all the ſecret Attempts and open Violences of his Enemies: and in him we are all delivered, that we might rejoyce in his Safety, as ſometimes the <hi>Romans</hi> did in the Recovery of <hi>Germanicus,</hi> when they ran with Lamps and Sacrifi<g ref="char:EOLhyphen"/>ces to the Capitol, and there ſung, with Shouts and Acclamations, <hi>Salva Roma, ſalva Patria, ſalus Germani<g ref="char:EOLhyphen"/>cus;</hi> the City is ſafe, and the Country is ſafe, and All is ſafe in the Safety of <hi>Germanicus.</hi>
+            </p>
+            <p>And the ſame Acclamations of Praiſe well become Our Mouths this Day, when we ſeriouſly conſider the manifold Bleſſings we enjoy in the Safety of, and under the Auſpicious Reign of our Noble and Illuſtrious KING <hi>WILLIAM.</hi>
+            </p>
+            <pb n="21" facs="tcp:44769:14"/>
+            <p>For ſuch a KING of Men, under whoſe Govern<g ref="char:EOLhyphen"/>ment we enjoy all that our Hearts can wiſh or deſire, (as the preſent Circumſtances of Affairs ſtand,) ſave only that of his Royal Preſence among us,) let us adore and magnifie the great God of Kings.</p>
+            <p>And as we ought in private to ſing every day, ſo may we with the whole Nation ſing (with upright Hearts and engaged Affections) in publick this Day, <hi>Salva Britannia, ſalva Eccleſia Anglicana, ſalvus Guliel<g ref="char:EOLhyphen"/>mus,</hi> the Kingdom is ſafe, the Church is ſafe, all our Eſtates are ſafe, and we are all ſafe and happy in the Preſervation of, and under the thrice Auſpicious Reign of our Illuſtrious KING <hi>WILLIAM.</hi>
+            </p>
+            <p>And I would to God, that as we have great Cauſe of Emulation, ſo we would be diligent and faith<g ref="char:EOLhyphen"/>ful in the Imitation of the Praiſes and Thanks of <hi>Iſrael.</hi>
+            </p>
+            <p>Bleſs we then the great King of Kings, for his Preſervation, who as God's Inſtrument preſerveth our Temple; as the <hi>Iſraelites</hi> did for their King, who built the Temple,
+<note place="margin">2 Chron. 5.12.</note> whilſt the <hi>Levites</hi> and the Singers ſound with Harps and Cymbals the Praiſes of the Lord our God; and ſay, as it is in the Text, <hi>Praiſe the Lord, for he is good, for his mercy endureth for ever towards our Iſrael.</hi>
+            </p>
+            <p>Let us then, my Brethren, with prepared Hearts, and religious Affection, magnifie the glorious Name of God, as we pretend to do this Day; and, if it be poſſible, let us, by ſome unuſual Strains of united Thanks, pierce the very Skies, and give an Eccho to thoſe Celeſtial Quires which are above, who perpe<g ref="char:EOLhyphen"/>tually ſing forth the Praiſes, and Glory, and Honour, of the Great and Immortal God, who ſitteth upon the Throne for evermore.</p>
+            <pb n="22" facs="tcp:44769:15"/>
+            <p>In one Word, May the God of Heaven ſtill preſerve the Perſon of our Dear and Dread SOVERAIGN, and convert or confound all his Enemies.</p>
+            <p>May the Crown long, long flouriſh upon his Head, and may he reign gloriouſly over all that hate him, and in the Affections of all his Subjects.</p>
+            <p>And may the Keepers of God's Temple, and the De<g ref="char:EOLhyphen"/>fenders of the true Ancient and Apoſtolick Faith among us, live and flouriſh; and let every true-hearted <hi>Eng<g ref="char:EOLhyphen"/>liſh-man</hi> ſay, with one Voice, <hi>Amen, Amen.</hi>
+            </p>
+            <p>Yea, let <hi>Amen,</hi> the faithful and true Witneſs in Hea<g ref="char:EOLhyphen"/>ven, ſay <hi>Amen</hi> to it.</p>
+            <p>And as for our Selves, Let us all (dearly beloved) heartily and ſincerely repent of our former Sins, and re<g ref="char:EOLhyphen"/>ſolve every one of us in particular, to be better men, and better Chriſtians, and to ſerve God with pure Hearts and Conſciences, and demean our ſelves always in a Vertuous and Religious Converſation.</p>
+            <p>And then we need not fear, but God will ſtill pre<g ref="char:EOLhyphen"/>ſerve our KING and Us from all His and Our Enemies, and give us a compleat and entire Victory over them, to a glorious Perfection, and eſtabliſh us upon the laſt<g ref="char:EOLhyphen"/>ing Foundations of Peace and Happineſs, that we may ſtill have more and more Occaſion to praiſe, magnifie, and adore the God of Heaven, our great and mighty Deliverer; and after the Example of the Holy Prophet, call in all the Creatures of God to celebrate his Praiſes, and ſay with one Voice, <hi>Praiſe the Lord, for he is good, and his mercy endureth for ever towards</hi> our <hi>Iſrael.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44769:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
